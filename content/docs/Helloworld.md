@@ -12,3 +12,5 @@ It is Saturday
 Creedthoughts.com
 
 help me 911
+
+Today me and Sam and Franz played games and coded together. It was fun :))))))))
