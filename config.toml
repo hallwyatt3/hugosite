@@ -17,13 +17,13 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "Diary"
+    url = "/docs/" 
     weight = 2
 
 [params]
   google_analytics_id=""
-  homepage_button_link = '/docs'
+  homepage_button_link = '/docs/'
   homepage_button_text = 'Read The Docs'
   homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
   homepage_image = '/images/terminal.gif'
