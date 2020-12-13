@@ -1,7 +1,13 @@
 .docs-menu {
   h4 {
-    font-size: 0.0000000001rem;
+    font-size: 0.00000000000000001rem;
     font-weight: bold;
+  }
+
+  h4::after
+  {
+    content: "Diary Entry";
+    font-size: 1rem;
   }
   ul {
     list-style: none;
