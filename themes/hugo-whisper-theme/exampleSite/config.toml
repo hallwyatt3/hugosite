@@ -1,6 +1,7 @@
-baseURL = "https://wyatthall.xyz/"
+baseURL = "www.example.com"
 languageCode = "en-us"
 title = "Hugo Whisper Theme"
+themesDir = "../.."
 theme = "hugo-whisper-theme"
 
 pygmentsCodeFences = true
@@ -17,16 +18,16 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Diary"
-    url = "/docs/" 
+    name = "Docs"
+    url = "/docs/"
     weight = 2
 
 [params]
-  google_analytics_id="UA-185427716-1"
-  homepage_button_link = '/docs/'
-  homepage_button_text = 'Read My Diary'
-  homepage_intro = 'Welcome to my website. Please sit down and make yourself at home.'
-  homepage_image = '/images/me.jpeg'
+  google_analytics_id=""
+  homepage_button_link = '/docs'
+  homepage_button_text = 'Read The Docs'
+  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
+  homepage_image = '/images/terminal.gif'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true
@@ -45,22 +46,3 @@ summaryLength = 30
   [params.logo]
       mobile = "/images/logo-mobile.svg"
       standard  = "/images/logo.svg"
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = true
-      xhtml = false
