@@ -7539,7 +7539,7 @@ p {
   overflow: hidden; }
 
 .docs-menu h4 {
-  font-size: 1rem;
+  font-size: 0.0000000001rem;
   font-weight: bold; }
 
 .docs-menu ul {
