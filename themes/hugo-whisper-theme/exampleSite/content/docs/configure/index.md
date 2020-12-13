@@ -47,7 +47,7 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Docs"
+name = "Date"
 url = "/docs/"
 weight = 2
 ```

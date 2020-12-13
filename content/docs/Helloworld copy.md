@@ -1,13 +1,13 @@
 ---
-title: "Saturday December 12, 2020"
+title: "Sunday December 13, 2020"
 date: 2020-12-12T15:04:53-07:00
 draft: false
 weight: 100
 ---
 
-# It is Saturday December 12<sup>th</sup> 2020
+# It is Sunday December 13<sup>th</sup> 2020
 
-![Icon](/images/al.jpg)
+![Icon](/images/me.jpeg)
 
 <center>*Creedthoughts.com*</center>
 
