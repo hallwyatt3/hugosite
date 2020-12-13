@@ -5,12 +5,21 @@ draft: false
 weight: 100
 ---
 
-It is Saturday
+# It is Saturday December 12<sup>th</sup> 2020
 
 ![Icon](/images/al.jpg)
 
-Creedthoughts.com
+<center>*Creedthoughts.com*</center>
+
+
 
 help me 911
 
 Today me and Sam and Franz played games and coded together. It was fun :))))))))
+
+*Dear Diary,*
+
+* one more time
+* two more times
+* three more times
+* fourth for good measure
