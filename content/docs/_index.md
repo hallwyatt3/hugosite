@@ -9,3 +9,5 @@ weight: 1
 ## I have many. They are all bogus. 
 
 ## *to some extent:*
+
+###### If you want to improve on any ideas or hypothesis email me hallwyatt3@gmail.com
