@@ -6,8 +6,12 @@ weight: 1
 
 # These are my thoughts
 
-## I have many. They are all bogus. 
+## I have many. They are all bogus 
 
 ## *to some extent:*
 
-###### If you want to improve on any ideas or hypothesis email me hallwyatt3@gmail.com
+<body>
+    <h1 style="font-size: 15px">
+        If you want to improve on any ideas or hypothesis email me hallwyatt3@gmail.com
+    </h1>
+</body>
