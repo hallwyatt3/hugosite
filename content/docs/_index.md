@@ -12,6 +12,6 @@ weight: 1
 
 <body>
     <h1 style="font-size: 15px">
-        If you want to improve on any ideas or hypothesis email me hallwyatt3@gmail.com
+        If you want to improve on any ideas or hypotheses email me hallwyatt3@gmail.com
     </h1>
 </body>
