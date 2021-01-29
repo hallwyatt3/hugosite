@@ -1,5 +1,5 @@
 ---
-title: "2. Idea: Distributed Christmas Tree Farm"
+title: "3. Idea: Distributed Christmas Tree Farm"
 date: 2020-12-12T15:04:53-07:00
 draft: false
 weight: 100
