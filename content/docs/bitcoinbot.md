@@ -6,7 +6,7 @@ draft: false
 
 Thursday, January 28th, 2021
 
-Like many others, I have had friends telling me to buy bitcoin. These are the same friends that told me to buy $GME and $AMC. However, I couldn't resist throwing a few thousand dollars of schmuck insurance Bitcoin's way. Because I'm typically a long term investor, I've never seen the need to constantly monitor the price of an asset in which I've invested. But, now that I've become a Bitcoin trader, I thought it might be cool to somehow update myself anytime Bitcoin reaches a significant benchmark. 
+Like many others, I have had friends telling me to buy bitcoin. These are the same friends that told me to buy $GME and $AMC. However, I couldn't resist throwing a few thousand dollars of schmuck insurance Bitcoin's way. Because I'm typically a long term investor, I've never seen the need to constantly monitor the price of an asset in which I've invested. But, now that I've become a Bitcoin trader (😎), I thought it might be cool to somehow update myself anytime Bitcoin reaches a significant benchmark. 
 
 Here's a link to the github for the code:
 <a href='https://github.com/hallwyatt3/Bitcoin-Discord-Bot'>GitHub Repo</a>
